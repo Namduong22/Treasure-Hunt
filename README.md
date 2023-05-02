@@ -19,7 +19,7 @@ Các bước thực hiện:
 
 Cài đặt CSDL:
 
-- Bước 1: Khởi động XAMPP, start Apache và MySQL
+- Bước 1: Khởi động XAMPP Control Panel , click "start" Apache và MySQL
 ![image](https://user-images.githubusercontent.com/116698926/235676693-8b467f36-a2ca-4810-aef9-9aabccfa1119.png)
 
   Giao diện sau khi start Apache và MySQL  
