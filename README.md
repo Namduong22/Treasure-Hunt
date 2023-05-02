@@ -36,7 +36,9 @@ CREATE TABLE highscore
   
 );
 
-Cài đặt và chạy game qua Eclipse IDE:
+Cài đặt và chạy game qua Eclipse IDE: 2 Cách
+
+Cách 1: Cài đặt bằng git
 
 - Bước 1: Mở Eclipse IDE.
 
@@ -55,5 +57,14 @@ Chuột phải chọn Build Path > Configure Build Path > Xuất hiện bảng P
 - Chạy game: Chuột phải chọn Run as > Java application > OK
 ![image](https://user-images.githubusercontent.com/116698926/235686161-f3e2de91-ad28-4352-87cc-0fc7e7f60333.png)
 
+Cách 2: Cài đặt qua file zip
 
+- Bước 1: Tải bản ZIP về máy.
 
+- Bước 2: Giải nén bản ZIP.
+
+- Bước 3: Mở Eclipse IDE, chọn File/Open Projects from File System.../Directory
+
+- Bước 4: Chọn folder game vừa giải nén, rối nhấn Finish.
+
+- Bước 5: Thực hiện tương tự bước 3, 4 ở cách 1.
