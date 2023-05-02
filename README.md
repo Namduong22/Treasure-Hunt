@@ -48,7 +48,7 @@ Chuột phải chọn Build Path > Configure Build Path > Xuất hiện bảng P
           
 ![image](https://user-images.githubusercontent.com/116698926/235682969-0c3655db-df4e-45a5-b4f8-7024bf01303a.png)
 
-- Bước 4: Chọn Modulepath > Click chọn Add External JARS > mở đến file lib trong thư mục game vừa cài đặt chọn file ![image](https://user-images.githubusercontent.com/116698926/235684597-dd4cb3ad-aa37-4387-82d7-cab5808cbf2f.png) 
+- Bước 4: Chọn Modulepath > Click chọn Add External JARS > mở đến folder lib trong thư mục game vừa cài đặt chọn file ![image](https://user-images.githubusercontent.com/116698926/235684597-dd4cb3ad-aa37-4387-82d7-cab5808cbf2f.png) 
 
 - Apply and Close
 
