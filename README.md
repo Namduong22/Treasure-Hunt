@@ -70,5 +70,5 @@ Cách 2: Cài đặt qua file zip
 
 - Bước 5: Thực hiện tương tự bước 3, 4 ở cách 1.
 
-Chạy game: Chuột phải chọn Run as > Java application > OK
+Chạy game: Chuột phải folder game chọn Run as > Java application > OK
 ![image](https://user-images.githubusercontent.com/116698926/235686161-f3e2de91-ad28-4352-87cc-0fc7e7f60333.png)
