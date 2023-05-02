@@ -79,4 +79,5 @@ Hướng dẫn chạy game:
 - Bước 2: Giải nén thư mục Bao-Cao-Game.rar chạy file TreasureHunt.jar.
 
 Hoặc chuột phải folder game trong Eclipse IDE chọn Run as > Java application > OK
+
 ![image](https://user-images.githubusercontent.com/116698926/235686161-f3e2de91-ad28-4352-87cc-0fc7e7f60333.png)
