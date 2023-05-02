@@ -5,11 +5,13 @@ Hướng dẫn cài đặt:
 
 Công cụ yêu cầu:
 
-- Bộ cài XAMPP sẽ kèm theo PHP MyAdmin: https://www.apachefriends.org/download.html
+- XAMPP: https://www.apachefriends.org/download.html
 
 - Eclipse IDE: https://www.eclipse.org/downloads/
 
 - Git: https://git-scm.com/
+
+- java: https://www.java.com/download/ie_manual.jsp
 
 Các bước thực hiện:
 
@@ -54,10 +56,7 @@ Chuột phải chọn Build Path > Configure Build Path > Xuất hiện bảng P
 
 - Bước 4: Chọn Modulepath > Click chọn Add External JARS > mở đến folder lib trong thư mục game vừa cài đặt chọn file ![image](https://user-images.githubusercontent.com/116698926/235684597-dd4cb3ad-aa37-4387-82d7-cab5808cbf2f.png) 
 
-- Apply and Close
-
-- Chạy game: Chuột phải chọn Run as > Java application > OK
-![image](https://user-images.githubusercontent.com/116698926/235686161-f3e2de91-ad28-4352-87cc-0fc7e7f60333.png)
+- Bước 5: Apply and Close
 
 Cách 2: Cài đặt qua file zip
 
@@ -70,3 +69,6 @@ Cách 2: Cài đặt qua file zip
 - Bước 4: Chọn folder game vừa giải nén, rối nhấn Finish.
 
 - Bước 5: Thực hiện tương tự bước 3, 4 ở cách 1.
+
+Chạy game: Chuột phải chọn Run as > Java application > OK
+![image](https://user-images.githubusercontent.com/116698926/235686161-f3e2de91-ad28-4352-87cc-0fc7e7f60333.png)
