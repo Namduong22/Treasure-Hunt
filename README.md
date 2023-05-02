@@ -17,12 +17,14 @@ Cài đặt CSDL:
 
 - Bước 1: Khởi động XAMPP, start Apache và MySQL
 ![image](https://user-images.githubusercontent.com/116698926/235676693-8b467f36-a2ca-4810-aef9-9aabccfa1119.png)
-  Giao diện sau khi start Apache và MySQL
+
+  Giao diện sau khi start Apache và MySQL  
 ![image](https://user-images.githubusercontent.com/116698926/235677101-a98a4015-091a-4612-a080-2c8c859ba724.png)
 
--Bước 2: CLick vào đường link: http://localhost/phpmyadmin, Nhấn vào SQL
+- Bước 2: CLick vào đường link: http://localhost/phpmyadmin, Nhấn vào SQL
 ![image](https://user-images.githubusercontent.com/116698926/235678292-d271e1c7-7e32-42a0-be5f-8f288982643a.png)
-Copy và paste đoạn code sau, và ấn thực hiện (go)
+
+-Bước 3: Copy và paste đoạn code sau, và ấn thực hiện (go)
 
 create database if not exists highscores;
 
