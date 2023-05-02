@@ -1,6 +1,8 @@
 # Treasure-Hunt
 Java Game Project
 
+Báo cáo BTL: File Báo cáo nằm trong phần Releases
+
 Hướng dẫn cài đặt:
 
 Công cụ yêu cầu:
