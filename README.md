@@ -30,14 +30,14 @@ Cài đặt CSDL:
 
 - Bước 3: Copy và paste đoạn code sau, và ấn thực hiện (go)
 
-	create database if not exists highscores;
+		create database if not exists highscores;
 
-	use highscores;
+		use highscores;
 
-	CREATE TABLE highscore
-	(	  
-		highscores Double NOT NULL
-	);
+		CREATE TABLE highscore
+		(	  
+			highscores Double NOT NULL
+		);
 
 Cài đặt và chạy game qua Eclipse IDE: 2 Cách
 
