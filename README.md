@@ -47,7 +47,7 @@ Cách 1: Cài đặt bằng git
 
 - Bước 2: Ấn vào File > Import > Git > Projects From Git (with smart import) > Clone URI > Paste link: https://github.com/Namduong22/Treasure-Hunt.git vào phần URI > Next > Chọn vị trí ổ lưu trữ > next > Finish ![image](https://user-images.githubusercontent.com/116698926/235680759-e20cfb4d-63b1-4a0f-b431-8a059baa0baf.png) 
 
-- Bước 3: Chọn folder game vừa cài trong Eclipse 
+- Bước 3: Chọn Project game vừa cài trong Eclipse 
 ![image](https://user-images.githubusercontent.com/116698926/235826123-4f476dac-3503-4e40-bdc6-a99affb11e01.png)
 
 	Chuột phải chọn Build Path > Configure Build Path > Xuất hiện bảng Properties chọn Java Build Path > Chọn vào dòng như trên ảnh > Chọn Remove 
@@ -82,6 +82,6 @@ Cách 2:
 
 - Bước 1: Thực hiện đầy đủ các bước cài đặt CSDL.
 
-- Bước 2: chuột phải folder game trong Eclipse IDE chọn Run as > Java application > OK
+- Bước 2: Chuột phải Project game vừa cài trong Eclipse IDE chọn Run as > Java application > OK
 
 ![image](https://user-images.githubusercontent.com/116698926/235686161-f3e2de91-ad28-4352-87cc-0fc7e7f60333.png)
