@@ -74,10 +74,16 @@ Cách 2: Cài đặt qua file zip
 
 Hướng dẫn chạy game: 
 
+Cách 1:
+
 - Bước 1: Thực hiện đầy đủ các bước cài đặt CSDL.
 
-- Bước 2: Giải nén thư mục Bao-Cao-Game.rar chạy file TreasureHunt.jar.
+- Bước 2: Giải nén thư mục Bao-Cao-Game.rar đã tải trong phần releases, chạy file TreasureHunt.jar.
 
-Hoặc chuột phải folder game trong Eclipse IDE chọn Run as > Java application > OK
+Cách 2:
+
+- Bước 1: Thực hiện đầy đủ các bước cài đặt CSDL.
+
+- Bước 2: chuột phải folder game trong Eclipse IDE chọn Run as > Java application > OK
 
 ![image](https://user-images.githubusercontent.com/116698926/235686161-f3e2de91-ad28-4352-87cc-0fc7e7f60333.png)
