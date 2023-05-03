@@ -13,7 +13,7 @@ Công cụ yêu cầu:
 
 - Git: https://git-scm.com/
 
-- java: https://www.java.com/download/ie_manual.jsp
+- java: https://www.oracle.com/java/technologies/downloads/#java8-windows
 
 Các bước thực hiện:
 
