@@ -47,7 +47,9 @@ Cách 1: Cài đặt bằng git
 
 - Bước 2: Ấn vào File > Import > Git > Projects From Git (with smart import) > Clone URI > Paste link: https://github.com/Namduong22/Treasure-Hunt.git vào phần URI > Next > Chọn vị trí ổ lưu trữ > next > Finish ![image](https://user-images.githubusercontent.com/116698926/235680759-e20cfb4d-63b1-4a0f-b431-8a059baa0baf.png) 
 
-- Bước 3: Chọn folder ![image](https://user-images.githubusercontent.com/116698926/235681745-6837e8ed-7c9a-45f8-bd27-33b8db0ed6ca.png)
+- Bước 3: Chọn folder game vừa cài trong Eclipse 
+
+![image](https://user-images.githubusercontent.com/116698926/235681745-6837e8ed-7c9a-45f8-bd27-33b8db0ed6ca.png)
 
 Chuột phải chọn Build Path > Configure Build Path > Xuất hiện bảng Properties chọn Java Build Path > Chọn vào dòng như trên ảnh > Chọn Remove 
           
