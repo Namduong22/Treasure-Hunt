@@ -1,7 +1,7 @@
 # Treasure-Hunt
 Java Game Project
 
-Báo cáo BTL và game đã đóng gói: Nằm trong phần Releases
+- Báo cáo BTL và game đã đóng gói: Nằm trong mục Releases
 
 Hướng dẫn cài đặt:
 
