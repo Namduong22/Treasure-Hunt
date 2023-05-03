@@ -50,9 +50,9 @@ Cách 1: Cài đặt bằng git
 - Bước 3: Chọn folder game vừa cài trong Eclipse 
 ![image](https://user-images.githubusercontent.com/116698926/235826123-4f476dac-3503-4e40-bdc6-a99affb11e01.png)
 
-Chuột phải chọn Build Path > Configure Build Path > Xuất hiện bảng Properties chọn Java Build Path > Chọn vào dòng như trên ảnh > Chọn Remove 
+	Chuột phải chọn Build Path > Configure Build Path > Xuất hiện bảng Properties chọn Java Build Path > Chọn vào dòng như trên ảnh > Chọn Remove 
           
-![image](https://user-images.githubusercontent.com/116698926/235682969-0c3655db-df4e-45a5-b4f8-7024bf01303a.png)
+	![image](https://user-images.githubusercontent.com/116698926/235682969-0c3655db-df4e-45a5-b4f8-7024bf01303a.png)
 
 - Bước 4: Chọn Modulepath > Click chọn Add External JARS > mở đến folder lib trong thư mục game vừa cài đặt chọn file ![image](https://user-images.githubusercontent.com/116698926/235684597-dd4cb3ad-aa37-4387-82d7-cab5808cbf2f.png) 
 
