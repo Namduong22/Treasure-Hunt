@@ -76,7 +76,7 @@ Cách 1:
 
 - Bước 1: Thực hiện đầy đủ các bước cài đặt CSDL.
 
-- Bước 2: Giải nén thư mục Bao-Cao-Game.rar đã tải trong phần releases, chạy file TreasureHunt.jar.
+- Bước 2: Giải nén thư mục TreasureHuntGame_CNTT5_Nhom18.rar đã tải trong phần releases, chạy file TreasureHunt.jar.
 
 Cách 2:
 
